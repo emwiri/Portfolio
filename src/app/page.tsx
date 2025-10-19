@@ -1,5 +1,5 @@
 
-import Main from "@/components/Main";
+import Main from "@/app/(components)/Main";
 import React from "react";
 import { GoPerson } from "react-icons/go";
 
